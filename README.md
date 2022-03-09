@@ -4,7 +4,7 @@
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdzidic&theme=dark&hide=css,html&langs_count=5&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdzidic&theme=dark&hide=css,html&langs_count=5&card_width=300)
 ![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdzidic&show_icons=true&theme=dark&line_height=40)
 
 <!--
