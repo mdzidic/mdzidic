@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Marko
+[![Homepage](https://img.shields.io/badge/Website-blue?logo=internet-explorer&logoColor=white&style=for-the-badge)](https://marko.dzidic.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/mdzidic)
+
+## Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdzidic&theme=dark&hide=css,html&langs_count=5&card_width=500)
+![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdzidic&show_icons=true&theme=dark&line_height=40)
 
 <!--
 **mdzidic/mdzidic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
